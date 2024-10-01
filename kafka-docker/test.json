@@ -1,0 +1,64 @@
+{
+    "pdf_files": [
+      {
+        "id": "001",
+        "filename": "report_2023Q4.pdf",
+        "title": "Quarterly Financial Report Q4 2023",
+        "author": "Finance Department",
+        "created_date": "2023-12-31T23:59:59Z",
+        "file_size_bytes": 2048576,
+        "num_pages": 15,
+        "tags": ["finance", "quarterly", "2023"],
+        "department": "Finance",
+        "access_level": "Confidential"
+      },
+      {
+        "id": "002",
+        "filename": "product_catalog_2024.pdf",
+        "title": "Product Catalog 2024",
+        "author": "Marketing Team",
+        "created_date": "2024-01-15T09:30:00Z",
+        "file_size_bytes": 5242880,
+        "num_pages": 50,
+        "tags": ["products", "catalog", "2024"],
+        "department": "Marketing",
+        "access_level": "Public"
+      },
+      {
+        "id": "003",
+        "filename": "employee_handbook_v3.pdf",
+        "title": "Employee Handbook Version 3",
+        "author": "Human Resources",
+        "created_date": "2024-02-01T14:15:00Z",
+        "file_size_bytes": 3145728,
+        "num_pages": 30,
+        "tags": ["HR", "policies", "employees"],
+        "department": "Human Resources",
+        "access_level": "Internal"
+      },
+      {
+        "id": "004",
+        "filename": "project_proposal_AI_initiative.pdf",
+        "title": "AI Initiative Project Proposal",
+        "author": "R&D Department",
+        "created_date": "2024-03-10T11:45:00Z",
+        "file_size_bytes": 1572864,
+        "num_pages": 20,
+        "tags": ["AI", "project", "proposal"],
+        "department": "Research and Development",
+        "access_level": "Restricted"
+      },
+      {
+        "id": "005",
+        "filename": "annual_report_2023.pdf",
+        "title": "Annual Report 2023",
+        "author": "Executive Team",
+        "created_date": "2024-03-31T23:59:59Z",
+        "file_size_bytes": 10485760,
+        "num_pages": 100,
+        "tags": ["annual", "report", "2023"],
+        "department": "Executive",
+        "access_level": "Public"
+      }
+    ]
+  }
